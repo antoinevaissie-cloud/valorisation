@@ -1,0 +1,11 @@
+Renovation assumptions,,
+Input,Value,Notes
+Renovation €/m² au sol,3910,Based on prior flat (2020/21) + 15% inflation to 2026
+Air conditioning (fixed),10000,Required
+Renovation contingency %,0.07,Experienced team
+Kitchen upgrade (buyer taste),15000,Optional
+,,
+Market logic,,
+Input,Value,
+Renovation premium (raw → turnkey),"4,000 €/m²",
+Turn-key upper sanity cap,"18,000 €/m²",
