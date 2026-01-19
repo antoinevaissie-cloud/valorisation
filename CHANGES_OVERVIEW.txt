@@ -1,0 +1,94 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    VALUATION PRESENTATION - KEY CHANGES                       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📊 FIXES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ Surface area: 57.48 m² → 58.48 m² (correct Carrez measurement)
+
+🤝 SELLER CONCERNS ADDRESSED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  1. Size Premium Issue
+     BEFORE: Used 100m² comparable directly (€12,200/m²)
+     AFTER:  Added +€600-800/m² adjustment for smaller size
+     RESULT: Market baseline now €12,800-13,000/m² (fairer)
+
+  2. Renovation Cost Inflation
+     BEFORE: Single cost (€3,910/m² = €345k total)
+     AFTER:  Split into two:
+             • Market standard: €2,500-2,800/m² (€190-230k)
+             • Buyer's luxury choice: €3,910/m² (€345k)
+     RESULT: Clear that market values on standard, not luxury
+
+  3. Structural Risk Double-Counting
+     BEFORE: Aggressive language ("exposure," "stigmate," "asymmetric risk")
+     AFTER:  Neutral scenarios (Optimistic/Median/Prudent)
+     RESULT: Professional tone, same 5-7% discount but better framed
+
+  4. Adjacency Premium Ignored
+     BEFORE: No explicit discussion
+     AFTER:  Full section acknowledging €30-50k premium in offer
+     RESULT: Transparent about buyer's unique advantage
+
+  5. Walk-Away Bluff
+     BEFORE: Implied "take it or leave it"
+     AFTER:  "Open to discussion," collaborative invitation
+     RESULT: Partnership tone, not ultimatum
+
+  6. All-In Cost ≠ Market Value
+     BEFORE: Mixed buyer's personal costs with market valuation
+     AFTER:  Clear dual scenarios showing separation
+     RESULT: Market value independent of buyer's luxury choices
+
+💰 PRICING STRUCTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  OFFER: €700,000 (€11,968/m²)
+
+  Breakdown:
+  ┌─────────────────────────────────────────────────┬──────────────┐
+  │ Market baseline (size-adjusted)                 │ €12,800/m²   │
+  │ Structural discount (-6%)                       │ -€770/m²     │
+  │ Net market-rational price                       │ ~€12,000/m²  │
+  │ Adjacency premium (already included in offer)   │ Embedded     │
+  └─────────────────────────────────────────────────┴──────────────┘
+
+  Positioning:
+  • Above pure market (~€650-680k what others would offer)
+  • Includes €30-50k adjacency premium
+  • Within buyer's stretch zone (€615k-€730k per CSV model)
+  • Below walk-away threshold (€730k)
+
+📈 NEW SECTIONS ADDED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Section 8:  "La Question de l'Adjacence" - Acknowledges unique buyer value
+  Section 10: "Proposition Concrète" - Clear €700k offer with rationale
+
+🎯 TONE SHIFT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  BEFORE: Hard-nosed negotiator extracting maximum discount
+  AFTER:  Fair-minded neighbor seeking equitable deal
+
+  Key phrases added:
+  • "Je reconnais volontiers..."
+  • "Je suis ouvert à la discussion..."
+  • "Mon objectif est de trouver un accord équitable..."
+
+✅ MAINTAINED STRENGTHS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ All market data (DVF, Notaires) unchanged and verifiable
+  ✓ Buyer advantages (cash, speed, structural takeover) still present
+  ✓ Professional presentation with clear sourcing
+  ✓ Logical flow from market data → valuation → offer
+
+🛡️ DEFENSIBILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  For Buyer:  ✅ Offer within stretch range, can walk if >€730k
+  vs Seller:  ✅ Addresses all major critiques with data
+  vs Expert:  ✅ Would survive independent valuation review
+
+═══════════════════════════════════════════════════════════════════════════════
+
+RESULT: A balanced, persuasive presentation that maintains buyer's price 
+discipline while demonstrating good faith and respect for seller's position.
+
+═══════════════════════════════════════════════════════════════════════════════
